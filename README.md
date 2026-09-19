@@ -1,4 +1,4 @@
-# radar-algo-notes
+# radar-data-processing-notes
 
 Pure Python notes and demos for common millimeter-wave radar data processing
 algorithms. The project focuses on readable algorithm implementations and small
@@ -13,7 +13,7 @@ visual demos that are easy to run and modify.
 ## Project Structure
 
 ```text
-radar-algo-notes/
+radar-data-processing-notes/
 ├── README.md
 ├── requirements.txt
 ├── pyproject.toml
@@ -38,7 +38,7 @@ radar-algo-notes/
 ## Installation
 
 ```bash
-git clone https://github.com/LukeJia47/radar-algo-notes.git
+git clone https://github.com/LukeJia47/radar-data-processing-notes.git
 cd radar-algo-notes
 python -m venv .venv
 ```
